@@ -1,0 +1,7 @@
+env/
+*.pyc
+.vscode/
+*.db
+*.log
+debug.py
+cfg.py
